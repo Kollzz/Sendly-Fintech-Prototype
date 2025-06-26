@@ -20,11 +20,11 @@ The system offers key wallet functionalities, easy mobile money top-ups, user-fr
 | Name                    | Role                         |
 |-------------------------|------------------------------|
 | Ibrahim Kolleh Sesay    | Project Lead / GitHub Admin  |
-| [Member 2 Name]         | Documentation Lead           |
-| [Member 3 Name]         | UML / System Design Lead     |
-| Hassan A. Kamara        | UI/UX & Figma Prototyping    |
-| [Member 5 Name]         | QA & User Feedback           |
-| [Member 6 Name]         | Project Manager / Scheduling |
+| Ibrahim Hai             | Documentation Lead           |
+| Hassan A. Kamara        | UML / System Design Lead     |
+| Mustapha Bayoh          | UI/UX & Figma Prototyping    |
+| Sidique Tommy           | QA & User Feedback           |
+| Andrew J Bull           | Project Manager / Scheduling |
 
 ---
 
@@ -68,24 +68,15 @@ The system offers key wallet functionalities, easy mobile money top-ups, user-fr
 
 ## 🧰 Tools Used
 
-| Tool        | Purpose                     |
-|-------------|-----------------------------|
-| Git & GitHub| Version control and collaboration |
-| Figma       | UI/UX design and prototyping |
-| Draw.io     | UML diagram creation         |
-| Google Docs| Weekly report drafts & reviews |
-| GitHub Projects | Kanban-style task management |
+| Tool            | Purpose                           |
+|-----------------|-----------------------------------|
+| Git & GitHub    | Version control and collaboration |
+| Figma           | UI/UX design and prototyping      |
+| LucidChart      | UML diagram creation              |
+| Google Docs     | Weekly report drafts & reviews    |
+| GitHub Projects | Kanban-style task management      |
 
 ---
 
-## 📄 Final Submission Will Include
 
-- ✅ `requirements.md` (functional + non-functional)
-- ✅ All UML diagrams (use case, class, sequence, activity)
-- ✅ Figma prototype link and screenshots
-- ✅ Gantt chart, task allocation plan, risk analysis
-- ✅ Weekly progress report
-- ✅ Complete GitHub repo with tracked commits
-
----
 
