@@ -1,0 +1,13 @@
+# UML Diagrams
+
+## Use Case Diagram
+![Use Case](./use-case-diagram.png)
+This shows the interactions between the user and the main features of the app.
+
+## Sequence Diagram
+![Sequence Diagram](./sequence-diagram.png)
+Demonstrates the flow of messages when a user sends money.
+
+## Class Diagram
+![Class Diagram](./class-diagram.png)
+Outlines the structure of the main classes in the application.
